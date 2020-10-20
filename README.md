@@ -2,7 +2,7 @@
 
 - 🎓  Wrapping up the master's studies from University of Munich.
 - 🔭  Interested in research for HCI and work for product management.
-- 💬  My [resume](https://github.com/jryisme/Resume_Ruoyu_Jiang.pdf).
+- 💬  My [resume](https://github.com/jryisme/Resume/Resume_Ruoyu_Jiang.pdf).
 - 😄  My Chinese Youtube [channel](https://www.youtube.com/user/luoben68) for commentating on the interesting publications.
 - 📫  Always looking for new challenges...
 
