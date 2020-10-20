@@ -1,8 +1,12 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=jryisme&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+- 🎓  Wrapping up the master's studies from University of Munich.
+- 🔭  Interested in research for HCI and work for product management.
+- 💬  My [resume](https://github.com/jryisme/Resume_Ruoyu_Jiang.pdf).
+- 😄  My Chinese Youtube [channel](https://www.youtube.com/user/luoben68) for commentating on the interesting publications.
+- 📫  Always looking for new challenges...
 
 <!--
-**jryisme/jryisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
