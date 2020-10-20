@@ -1,10 +1,10 @@
+<img src="https://github-readme-stats.vercel.app/api?username=jryisme&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 - 🎓  Wrapping up the master's studies from University of Munich.
 - 🔭  Interested in research for HCI and work for product management.
 - 💬  My [resume](https://github.com/jryisme/Resume).
 - 😄  My Chinese Youtube [channel](https://www.youtube.com/user/luoben68) for commentating on the interesting publications.
-- 📫  Always looking for new challenges ...
-
-<img src="https://github-readme-stats.vercel.app/api?username=jryisme&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+- ⚡  Always looking for new challenges ...
 
 <!--
 Here are some ideas to get you started:
